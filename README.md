@@ -15,3 +15,9 @@ This project focuses on the examination and forecasting of the shipping industry
 - Identification of crucial factors: vessel's age at sale, time-charter fees, and fuel efficiency index.
 - Emphasis on better model performance with reliable data.
 - Valuation model heavily depends on specific vessel features in the data.
+
+## Project Structure
+
+- **scripts/:** R scripts for linear regression modeling.
+- **data/:** Dataset containing shipping industry and vessel information.
+- **results/:** Model performance metrics, vessel valuation reports, and visualizations.
